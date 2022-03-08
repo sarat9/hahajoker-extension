@@ -8,6 +8,9 @@ Sample chrome extention in plain javascript which shows random jokes
 - Click on the loaded extention
 
 
+<img width="517" alt="image" src="https://user-images.githubusercontent.com/17333491/157268790-2bd0fd22-4a45-4973-afb3-fee1728c5fbd.png">
+
+
 We used a [Random Jokes Free API](https://icanhazdadjoke.com/api#fetch-a-dad-joke) to get the jokes.
 
 
