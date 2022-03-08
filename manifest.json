@@ -1,0 +1,14 @@
+{
+    "name": "HahaJoker",
+    "description": "Displays Jokes as a Sample Extension in JS!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action" : {
+        "default_popup": "index.html",
+        "default_icon" : "images/joker.png"
+    },
+    "icons":{
+        "128" : "images/joker.png"
+    },
+    "permissions": ["activeTab"]
+  }

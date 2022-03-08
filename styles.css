@@ -1,0 +1,15 @@
+body {
+    width: 350px;
+    height: 200px;
+    background-color: deeppink;
+    display: flex;
+    justify-content: center;
+}
+
+#jokeElement {
+    display: inline-flex;
+    color: aqua;
+    font-size: 24px;
+    padding: 10%;
+    box-shadow: 5px 10px;
+}
